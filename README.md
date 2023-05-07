@@ -1,2 +1,4 @@
-# RSS_To_M3U_Universal
+# RSS To M3U Universal
 Convert RSS To VLC Playlist
+
+    Replit: https://replit.com/@TRC4/RSSTOM3U
